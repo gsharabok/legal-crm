@@ -27,7 +27,7 @@ export function Sidebar() {
   return (
     <div className="h-full flex flex-col bg-white border-r border-border">
       <div className="p-6">
-        <h2 className="text-2xl font-semibold text-primary">LexFlow</h2>
+        <h2 className="text-2xl font-semibold text-primary">Legal CRM</h2>
       </div>
       
       <div className="flex-1 px-3 py-4 space-y-1">
